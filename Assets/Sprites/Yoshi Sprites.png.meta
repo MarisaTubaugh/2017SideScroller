@@ -1,0 +1,2904 @@
+fileFormatVersion: 2
+guid: 53cf9aa95f1b74ca6b0e5cb5be16fef2
+timeCreated: 1490623948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Yoshi Sprites_0
+    21300002: Yoshi Sprites_1
+    21300004: Yoshi Sprites_2
+    21300006: Yoshi Sprites_3
+    21300008: Yoshi Sprites_4
+    21300010: Yoshi Sprites_5
+    21300012: Yoshi Sprites_6
+    21300014: Yoshi Sprites_7
+    21300016: Yoshi Sprites_8
+    21300018: Yoshi Sprites_9
+    21300020: Yoshi Sprites_10
+    21300022: Yoshi Sprites_11
+    21300024: Yoshi Sprites_12
+    21300026: Yoshi Sprites_13
+    21300028: Yoshi Sprites_14
+    21300030: Yoshi Sprites_15
+    21300032: Yoshi Sprites_16
+    21300034: Yoshi Sprites_17
+    21300036: Yoshi Sprites_18
+    21300038: Yoshi Sprites_19
+    21300040: Yoshi Sprites_20
+    21300042: Yoshi Sprites_21
+    21300044: Yoshi Sprites_22
+    21300046: Yoshi Sprites_23
+    21300048: Yoshi Sprites_24
+    21300050: Yoshi Sprites_25
+    21300052: Yoshi Sprites_26
+    21300054: Yoshi Sprites_27
+    21300056: Yoshi Sprites_28
+    21300058: Yoshi Sprites_29
+    21300060: Yoshi Sprites_30
+    21300062: Yoshi Sprites_31
+    21300064: Yoshi Sprites_32
+    21300066: Yoshi Sprites_33
+    21300068: Yoshi Sprites_34
+    21300070: Yoshi Sprites_35
+    21300072: Yoshi Sprites_36
+    21300074: Yoshi Sprites_37
+    21300076: Yoshi Sprites_38
+    21300078: Yoshi Sprites_39
+    21300080: Yoshi Sprites_40
+    21300082: Yoshi Sprites_41
+    21300084: Yoshi Sprites_42
+    21300086: Yoshi Sprites_43
+    21300088: Yoshi Sprites_44
+    21300090: Yoshi Sprites_45
+    21300092: Yoshi Sprites_46
+    21300094: Yoshi Sprites_47
+    21300096: Yoshi Sprites_48
+    21300098: Yoshi Sprites_49
+    21300100: Yoshi Sprites_50
+    21300102: Yoshi Sprites_51
+    21300104: Yoshi Sprites_52
+    21300106: Yoshi Sprites_53
+    21300108: Yoshi Sprites_54
+    21300110: Yoshi Sprites_55
+    21300112: Yoshi Sprites_56
+    21300114: Yoshi Sprites_57
+    21300116: Yoshi Sprites_58
+    21300118: Yoshi Sprites_59
+    21300120: Yoshi Sprites_60
+    21300122: Yoshi Sprites_61
+    21300124: Yoshi Sprites_62
+    21300126: Yoshi Sprites_63
+    21300128: Yoshi Sprites_64
+    21300130: Yoshi Sprites_65
+    21300132: Yoshi Sprites_66
+    21300134: Yoshi Sprites_67
+    21300136: Yoshi Sprites_68
+    21300138: Yoshi Sprites_69
+    21300140: Yoshi Sprites_70
+    21300142: Yoshi Sprites_71
+    21300144: Yoshi Sprites_72
+    21300146: Yoshi Sprites_73
+    21300148: Yoshi Sprites_74
+    21300150: Yoshi Sprites_75
+    21300152: Yoshi Sprites_76
+    21300154: Yoshi Sprites_77
+    21300156: Yoshi Sprites_78
+    21300158: Yoshi Sprites_79
+    21300160: Yoshi Sprites_80
+    21300162: Yoshi Sprites_81
+    21300164: Yoshi Sprites_82
+    21300166: Yoshi Sprites_83
+    21300168: Yoshi Sprites_84
+    21300170: Yoshi Sprites_85
+    21300172: Yoshi Sprites_86
+    21300174: Yoshi Sprites_87
+    21300176: Yoshi Sprites_88
+    21300178: Yoshi Sprites_89
+    21300180: Yoshi Sprites_90
+    21300182: Yoshi Sprites_91
+    21300184: Yoshi Sprites_92
+    21300186: Yoshi Sprites_93
+    21300188: Yoshi Sprites_94
+    21300190: Yoshi Sprites_95
+    21300192: Yoshi Sprites_96
+    21300194: Yoshi Sprites_97
+    21300196: Yoshi Sprites_98
+    21300198: Yoshi Sprites_99
+    21300200: Yoshi Sprites_100
+    21300202: Yoshi Sprites_101
+    21300204: Yoshi Sprites_102
+    21300206: Yoshi Sprites_103
+    21300208: Yoshi Sprites_104
+    21300210: Yoshi Sprites_105
+    21300212: Yoshi Sprites_106
+    21300214: Yoshi Sprites_107
+    21300216: Yoshi Sprites_108
+    21300218: Yoshi Sprites_109
+    21300220: Yoshi Sprites_110
+    21300222: Yoshi Sprites_111
+    21300224: Yoshi Sprites_112
+    21300226: Yoshi Sprites_113
+    21300228: Yoshi Sprites_114
+    21300230: Yoshi Sprites_115
+    21300232: Yoshi Sprites_116
+    21300234: Yoshi Sprites_117
+    21300236: Yoshi Sprites_118
+    21300238: Yoshi Sprites_119
+    21300240: Yoshi Sprites_120
+    21300242: Yoshi Sprites_121
+    21300244: Yoshi Sprites_122
+    21300246: Yoshi Sprites_123
+    21300248: Yoshi Sprites_124
+    21300250: Yoshi Sprites_125
+    21300252: Yoshi Sprites_126
+    21300254: Yoshi Sprites_127
+    21300256: Yoshi Sprites_128
+    21300258: Yoshi Sprites_129
+    21300260: Yoshi Sprites_130
+    21300262: Yoshi Sprites_131
+    21300264: Yoshi Sprites_132
+    21300266: Yoshi Sprites_133
+    21300268: Yoshi Sprites_134
+    21300270: Yoshi Sprites_135
+    21300272: Yoshi Sprites_136
+    21300274: Yoshi Sprites_137
+    21300276: Yoshi Sprites_138
+    21300278: Yoshi Sprites_139
+    21300280: Yoshi Sprites_140
+    21300282: Yoshi Sprites_141
+    21300284: Yoshi Sprites_142
+    21300286: Yoshi Sprites_143
+    21300288: Yoshi Sprites_144
+    21300290: Yoshi Sprites_145
+    21300292: Yoshi Sprites_146
+    21300294: Yoshi Sprites_147
+    21300296: Yoshi Sprites_148
+    21300298: Yoshi Sprites_149
+    21300300: Yoshi Sprites_150
+    21300302: Yoshi Sprites_151
+    21300304: Yoshi Sprites_152
+    21300306: Yoshi Sprites_153
+    21300308: Yoshi Sprites_154
+    21300310: Yoshi Sprites_155
+    21300312: Yoshi Sprites_156
+    21300314: Yoshi Sprites_157
+    21300316: Yoshi Sprites_158
+    21300318: Yoshi Sprites_159
+    21300320: Yoshi Sprites_160
+    21300322: Yoshi Sprites_161
+    21300324: Yoshi Sprites_162
+    21300326: Yoshi Sprites_163
+    21300328: Yoshi Sprites_164
+    21300330: Yoshi Sprites_165
+    21300332: Yoshi Sprites_166
+    21300334: Yoshi Sprites_167
+    21300336: Yoshi Sprites_168
+    21300338: Yoshi Sprites_169
+    21300340: Yoshi Sprites_170
+    21300342: Yoshi Sprites_171
+    21300344: Yoshi Sprites_172
+    21300346: Yoshi Sprites_173
+    21300348: Yoshi Sprites_174
+    21300350: Yoshi Sprites_175
+    21300352: Yoshi Sprites_176
+    21300354: Yoshi Sprites_177
+    21300356: Yoshi Sprites_178
+    21300358: Yoshi Sprites_179
+    21300360: Yoshi Sprites_180
+    21300362: Yoshi Sprites_181
+    21300364: Yoshi Sprites_182
+    21300366: Yoshi Sprites_183
+    21300368: Yoshi Sprites_184
+    21300370: Yoshi Sprites_185
+    21300372: Yoshi Sprites_186
+    21300374: Yoshi Sprites_187
+    21300376: Yoshi Sprites_188
+    21300378: Yoshi Sprites_189
+    21300380: Yoshi Sprites_190
+    21300382: Yoshi Sprites_191
+    21300384: Yoshi Sprites_192
+    21300386: Yoshi Sprites_193
+    21300388: Yoshi Sprites_194
+    21300390: Yoshi Sprites_195
+    21300392: Yoshi Sprites_196
+    21300394: Yoshi Sprites_197
+    21300396: Yoshi Sprites_198
+    21300398: Yoshi Sprites_199
+    21300400: Yoshi Sprites_200
+    21300402: Yoshi Sprites_201
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yoshi Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 637
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 638
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 638
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 638
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 638
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 638
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 638
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 638
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 638
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 638
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 638
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 598
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 598
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 598
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 598
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 598
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 598
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 598
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 598
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 598
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 598
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 598
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 561
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 561
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 561
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 561
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 561
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 561
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 561
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 561
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 561
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 561
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 561
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 561
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 561
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 561
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 561
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 522
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 522
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 522
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 522
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 522
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 522
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 522
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 522
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 523
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 522
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 522
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 522
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 522
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 489
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 481
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 481
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 481
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 481
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 481
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 481
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 481
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 482
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 476
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 482
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 482
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 482
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 482
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 482
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 482
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 443
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 443
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 443
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 443
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 443
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 451
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 443
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 450
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 443
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 446
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 448
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 448
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 443
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 443
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 404
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 404
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 404
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 404
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 404
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 404
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 409
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 410
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 412
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 359
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 378
+        width: 14
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 404
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 404
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 419
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 413
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 402
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 367
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 367
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 367
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 367
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 367
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 367
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 367
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 367
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 367
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 367
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 359
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 381
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 329
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 332
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 335
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 330
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 328
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 331
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 328
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 331
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 329
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 332
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 331
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 331
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 288
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 291
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 291
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 289
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 292
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 291
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 291
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 291
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 247
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 247
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 247
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 247
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 247
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 247
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 247
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 208
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 208
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 208
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 208
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 208
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 208
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 209
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 208
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 171
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 171
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 171
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 171
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 171
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 171
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 171
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_164
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 171
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_165
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 171
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 171
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 171
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_169
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 136
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_171
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_172
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 135
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_173
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 139
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_174
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_175
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_178
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 126
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_179
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 126
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_181
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 89
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_182
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 89
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_183
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 89
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_184
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 89
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_185
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 89
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_186
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_187
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_188
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 89
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_189
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 89
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_190
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 94
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_191
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 94
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_192
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 94
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_193
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 92
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_194
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_195
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_196
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_197
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_198
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_199
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_200
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yoshi Sprites_201
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
