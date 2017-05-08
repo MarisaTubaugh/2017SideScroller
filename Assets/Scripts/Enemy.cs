@@ -9,6 +9,10 @@ public class Enemy : MonoBehaviour
 	void OnCollisionEnter2D(Collision2D coll)
 	{
 
+		if (!enabled)
+		{
+			return;
+		}
 		var player = coll.gameObject.GetComponent<Player>();
 		if (player != null)
 		{
@@ -17,3 +21,4 @@ public class Enemy : MonoBehaviour
 	}
 }
 	
+

@@ -7,7 +7,8 @@ public class Player : MonoBehaviour
 	public int health = 100;
 	public float speed = 5;
 	public float jumpSpeed = 5;
-	public float deadZone = -3;
+	public float deadZone = -300;
+
 	public bool canFly = false;
 	public bool air;
 
@@ -105,7 +106,10 @@ public class Player : MonoBehaviour
 	}
 	public void Powerup()
 	{
+		anim.SetTrigger("Power");
+
 		anim.SetTrigger("powered");
+
 	}
 
 	void OnCollisionEnter2D(Collision2D coll)

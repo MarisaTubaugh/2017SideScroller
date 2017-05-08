@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class FlyingBooster : MonoBehaviour
 {
+
+	/// <summary>
+	/// Allows player to fly for set number of seconds
+	/// </summary>
+
 	float timeStarted = 0;
 	Player player;
 
@@ -20,15 +25,24 @@ public class FlyingBooster : MonoBehaviour
 			gameObject.GetComponent<SpriteRenderer>().enabled = false;
 
 			timeStarted = Time.time;
+
+
+			player.Powerup();
+
 		}
 	}
 	void Update()
 	{
-		//Time.time means "now"
+			if (timeStarted != 0 && timeStarted + lastForSeconds < Time.time)
+
 		if (timeStarted != 0 && timeStarted + 10 > Time.time)
+
 		{
 			timeStarted = 0;
 			player.canFly = false;
 		}
 	}
 }
+
+
+

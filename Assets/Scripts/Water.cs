@@ -17,7 +17,7 @@ public class Water : MonoBehaviour
 
 	}
 
-	private void OnTriggerEnter2D(Collision2D collision)
+	private void OnTriggerEnter2D(Collider2D collision)
 	{
 		var player = collision.gameObject.GetComponent<Player>();
 		if (player != null)
